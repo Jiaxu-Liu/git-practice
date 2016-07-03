@@ -1,1 +1,1 @@
-This is file3.txt
+I fixed the bug in file3.
